@@ -24,4 +24,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
