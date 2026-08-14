@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 ## Stack
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0686-repeated-string-match](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
@@ -80,4 +82,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
