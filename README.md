@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0686-repeated-string-match](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0686-repeated-string-match) |
@@ -74,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
