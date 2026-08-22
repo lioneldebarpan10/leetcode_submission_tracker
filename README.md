@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
 ## String
 |  |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -147,4 +149,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## Design
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
