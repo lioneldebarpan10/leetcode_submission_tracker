@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0057-insert-interval) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
+| [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Hash Table
@@ -83,9 +84,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
+| [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
 ## Manacher
 |  |
