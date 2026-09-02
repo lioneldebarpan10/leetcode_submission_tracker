@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
+| [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
 | [3693-climbing-stairs-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3693-climbing-stairs-ii) |
