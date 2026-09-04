@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0198-house-robber) |
+| [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 ## Stack
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
+| [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 ## Greedy
