@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0057-insert-interval) |
+| [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
+| [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
