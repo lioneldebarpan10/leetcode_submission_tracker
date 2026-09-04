@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
