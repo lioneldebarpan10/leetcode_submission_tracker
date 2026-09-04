@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0057-insert-interval) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 ## Memoization
 |  |
