@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0198-house-robber) |
 | [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 ## Two Pointers
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
 ## String
