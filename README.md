@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
@@ -328,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0239-sliding-window-maximum) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
