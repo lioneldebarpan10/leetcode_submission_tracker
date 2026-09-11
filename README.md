@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0643-maximum-average-subarray-i) |
+| [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
+| [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
 ## Bit Manipulation
 |  |
