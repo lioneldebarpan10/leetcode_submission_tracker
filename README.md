@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0567-permutation-in-string) |
