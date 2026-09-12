@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3693-climbing-stairs-ii) |
 ## Hash Table
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0875-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Bit Manipulation
 |  |
 | ------- |
