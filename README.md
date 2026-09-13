@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0278-first-bad-version) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
