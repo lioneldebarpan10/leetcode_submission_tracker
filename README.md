@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
@@ -78,12 +79,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
