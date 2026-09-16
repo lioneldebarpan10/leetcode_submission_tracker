@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
+| [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0567-permutation-in-string) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
