@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -257,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -272,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -281,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -295,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
