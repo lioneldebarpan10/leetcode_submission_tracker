@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0836-rectangle-overlap) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
+| [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 ## DP on Trees
@@ -465,9 +468,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
