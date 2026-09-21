@@ -146,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0032-longest-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0091-decode-ways) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0032-longest-valid-parentheses) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0124-binary-tree-maximum-path-sum) |
