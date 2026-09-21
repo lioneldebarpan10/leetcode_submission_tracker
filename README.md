@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0283-move-zeroes) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0485-max-consecutive-ones](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 | [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
+| [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
@@ -472,9 +474,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
+| [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
