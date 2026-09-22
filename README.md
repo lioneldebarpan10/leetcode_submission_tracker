@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0057-insert-interval) |
+| [0064-minimum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0084-largest-rectangle-in-histogram) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0032-longest-valid-parentheses) |
 | [0062-unique-paths](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0091-decode-ways) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
+| [0064-minimum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 ## Memoization
