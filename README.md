@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0009-palindrome-number) |
+| [0062-unique-paths](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0032-longest-valid-parentheses) |
+| [0062-unique-paths](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0091-decode-ways) |
@@ -497,4 +499,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0300-longest-increasing-subsequence) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
