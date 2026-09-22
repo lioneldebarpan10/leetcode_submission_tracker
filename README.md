@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0162-find-peak-element) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0125-valid-palindrome) |
 | [0132-palindrome-partitioning-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
@@ -237,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0132-palindrome-partitioning-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0213-house-robber-ii) |
 | [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -508,4 +513,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0062-unique-paths) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
