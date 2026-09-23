@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Data Stream
 |  |
@@ -422,11 +426,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0004-median-of-two-sorted-arrays) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -526,4 +532,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0139-word-break) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
