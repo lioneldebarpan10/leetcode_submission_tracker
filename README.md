@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
 ## Greedy
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0295-find-median-from-data-stream) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Data Stream
 |  |
 | ------- |
@@ -371,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 ## Memoization
 |  |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0278-first-bad-version) |
 | [0300-longest-increasing-subsequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0300-longest-increasing-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0875-koko-eating-bananas) |
