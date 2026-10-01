@@ -1,18 +1,19 @@
 class Solution {
 public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
-        vector<vector<int>> ans{{}};
+        vector<vector<int>> external {{}};
         sort(nums.begin() , nums.end());
+
         for(int num : nums){
-            int n = ans.size();
+            int n = external.size();
             for(int i = 0 ; i < n ; i++){
-                vector<int> subset = ans[i];
-                subset.push_back(num);
-                if(find(ans.begin() , ans.end() , subset) == ans.end()){
-                    ans.push_back(subset);
+                vector<int> internal = external[i];
+                internal.push_back(num);
+                if(find(external.begin() , external.end() , internal) == external.end()){
+                    external.push_back(internal);
                 }
             }
         }
-        return ans;
+        return external;
     }
 };
