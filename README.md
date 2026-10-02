@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0518-coin-change-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0518-coin-change-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0643-maximum-average-subarray-i) |
+| [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0746-min-cost-climbing-stairs) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
+| [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 ## DP on Trees
 |  |
 | ------- |
@@ -399,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 ## Memoization
 |  |
@@ -469,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 ## Queue
 |  |
 | ------- |
