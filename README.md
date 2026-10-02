@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0875-koko-eating-bananas) |
 | [0977-squares-of-a-sorted-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -352,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
+| [0994-rotting-oranges](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0994-rotting-oranges) |
 ## DP on Trees
 |  |
 | ------- |
@@ -404,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0695-max-area-of-island](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0695-max-area-of-island) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
+| [0994-rotting-oranges](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0994-rotting-oranges) |
 ## Memoization
 |  |
 | ------- |
