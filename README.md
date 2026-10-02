@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0229-majority-element-ii) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0226-invert-binary-tree) |
 | [0279-perfect-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0279-perfect-squares) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0297-serialize-and-deserialize-binary-tree) |
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0036-valid-sudoku) |
 | [0064-minimum-path-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0835-image-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0835-image-overlap) |
 ## Memoization
@@ -461,6 +465,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0200-number-of-islands) |
 ## Queue
 |  |
 | ------- |
