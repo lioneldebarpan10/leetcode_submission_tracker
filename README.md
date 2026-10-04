@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0173-binary-search-tree-iterator) |
 | [0394-decode-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Monotonic Stack
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0686-repeated-string-match](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0686-repeated-string-match) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## String Matching
@@ -227,12 +229,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0435-non-overlapping-intervals) |
+| [0678-valid-parenthesis-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Sliding Window
 |  |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0647-palindromic-substrings) |
+| [0678-valid-parenthesis-string](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0746-min-cost-climbing-stairs) |
 | [3693-climbing-stairs-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3693-climbing-stairs-ii) |
 ## Manacher
