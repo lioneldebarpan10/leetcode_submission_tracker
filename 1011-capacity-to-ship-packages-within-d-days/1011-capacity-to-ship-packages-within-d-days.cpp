@@ -5,7 +5,7 @@ public:
         int currentWeight = 0;
 
         for(int weight : weights){
-            if(weight + currentWeight > capacity){
+            if(currentWeight + weight > capacity){
                 daysNeeded++;
                 currentWeight = 0;
             }
@@ -13,6 +13,7 @@ public:
         }
         return daysNeeded <= days;
     }
+
     int shipWithinDays(vector<int>& weights, int days) {
         int low = *max_element(weights.begin() , weights.end());
         int high = accumulate(weights.begin() , weights.end() , 0);
