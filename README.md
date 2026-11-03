@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3693-climbing-stairs-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0343-integer-break](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0343-integer-break) |
 | [0509-fibonacci-number](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/0836-rectangle-overlap) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/lioneldebarpan10/leetcode_submission_tracker/tree/master/3871-count-commas-in-range-ii) |
 ## Two Pointers
